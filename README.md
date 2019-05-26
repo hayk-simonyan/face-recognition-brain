@@ -1,6 +1,7 @@
-# SmartBrain - v2
-Final project for Udemy course
+# Face recognition brain - frontend
+Built with React
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+* run `npm install`
+* run `npm start`
+
+\* Connect this to [backend](https://github.com/hayk77/face-recognition-brain-api) to have full functionality
